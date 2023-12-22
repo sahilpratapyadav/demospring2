@@ -8,6 +8,8 @@ public class SpringBatcrrrrApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBatcrrrrApplication.class, args);
+		//sahil yadav1 firstadd  
+		int a;
 	}
 
 }
